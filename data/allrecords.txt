@@ -1,0 +1,182 @@
+ACUBE - Database - Records 
+All records are printed here.
+
+
+
+Records : 
+
+Ticket ID : 1
+Client ID : -1
+Date : 2021-04-04
+Description : Film : Pirates des Caraibes : La vengeance de Salazar - Cinema : UGC Paris - Tickets : Childs: 1 ; Adult: 0 ; Senior: 0
+Total Price : 4.22
+--------------------------------------------------------------------------- 
+
+Ticket ID : 2
+Client ID : -1
+Date : 2021-04-04
+Description : Film : Pirates des Caraibes : La vengeance de Salazar - Cinema : UGC Paris - Tickets : Childs: 1 ; Adult: 1 ; Senior: 0
+Total Price : 14.77
+--------------------------------------------------------------------------- 
+
+Ticket ID : 3
+Client ID : -1
+Date : 2021-04-04
+Description : Film : Pirates des Caraibes : La vengeance de Salazar - Cinema : UGC Paris - Tickets : Childs: 1 ; Adult: 1 ; Senior: 0
+Total Price : 14.77
+--------------------------------------------------------------------------- 
+
+Ticket ID : 4
+Client ID : -1
+Date : 2021-04-04
+Description : Film : Pirates des Caraibes : La vengeance de Salazar - Cinema : UGC Paris - Tickets : Childs: 0 ; Adult: 0 ; Senior: 1
+Total Price : 5.275
+--------------------------------------------------------------------------- 
+
+Ticket ID : 5
+Client ID : 1
+Date : 2021-04-04
+Description : Film : Pirates des Caraibes : La vengeance de Salazar - Cinema : UGC Paris - Tickets : Childs: 1 ; Adult: 1 ; Senior: 1
+Total Price : 20.045
+--------------------------------------------------------------------------- 
+
+Ticket ID : 6
+Client ID : 1
+Date : 2021-04-05
+Description : Premium Upgrade
+Total Price : 19.99
+--------------------------------------------------------------------------- 
+
+Ticket ID : 7
+Client ID : 1
+Date : 2021-04-05
+Description : Film : Pirates des Caraibes : La vengeance de Salazar - Cinema : UGC London - Tickets : Childs: 1 ; Adult: 6 ; Senior: 1
+Total Price : 37.06848
+--------------------------------------------------------------------------- 
+
+Ticket ID : 8
+Client ID : -1
+Date : 2021-04-05
+Description : Film : Pirates des Caraibes : La vengeance de Salazar - Cinema : UGC London - Tickets : Childs: 1 ; Adult: 1 ; Senior: 1
+Total Price : 16.88
+--------------------------------------------------------------------------- 
+
+Ticket ID : 9
+Client ID : -1
+Date : 2021-04-05
+Description : Film : Pirates des Caraibes : La vengeance de Salazar - Cinema : UGC London - Tickets : Childs: 1 ; Adult: 0 ; Senior: 0
+Total Price : 3.165
+--------------------------------------------------------------------------- 
+
+Ticket ID : 10
+Client ID : -1
+Date : 2021-04-05
+Description : Film : Pirates des Caraibes : La vengeance de Salazar - Cinema : UGC London - Tickets : Childs: 0 ; Adult: 1 ; Senior: 0
+Total Price : 9.495
+--------------------------------------------------------------------------- 
+
+Ticket ID : 11
+Client ID : -1
+Date : 2021-04-05
+Description : Film : Pirates des Caraibes : La vengeance de Salazar - Cinema : UGC London - Tickets : Childs: 1 ; Adult: 1 ; Senior: 0
+Total Price : 12.66
+--------------------------------------------------------------------------- 
+
+Ticket ID : 12
+Client ID : -1
+Date : 2021-04-05
+Description : Film : Pirates of the Caribbean: Dead Men Tell No Tales - Cinema : UGC Paris - Tickets : Childs: 2 ; Adult: 1 ; Senior: 0
+Total Price : 18.99
+--------------------------------------------------------------------------- 
+
+Ticket ID : 13
+Client ID : -1
+Date : 2021-04-06
+Description : Film : Pirates of the Caribbean: Dead Men Tell No Tales - Cinema : UGC London - Tickets : Childs: 0 ; Adult: 1 ; Senior: 1
+Total Price : 13.715
+--------------------------------------------------------------------------- 
+
+Ticket ID : 14
+Client ID : -1
+Date : 2021-04-06
+Description : Film : Tenet - Cinema : UGC New York - Tickets : Childs: 1 ; Adult: 0 ; Senior: 0
+Total Price : 5.275
+--------------------------------------------------------------------------- 
+
+Ticket ID : 15
+Client ID : -1
+Date : 2021-04-06
+Description : Film : Tenet - Cinema : UGC New York - Tickets : Childs: 5 ; Adult: 0 ; Senior: 0
+Total Price : 26.375
+--------------------------------------------------------------------------- 
+
+Ticket ID : 16
+Client ID : 16
+Date : 2021-04-06
+Description : Premium Upgrade
+Total Price : 19.99
+--------------------------------------------------------------------------- 
+
+Ticket ID : 17
+Client ID : -1
+Date : 2021-04-06
+Description : Film : Tenet - Cinema : UGC New York - Tickets : Childs: 1 ; Adult: 0 ; Senior: 0
+Total Price : 5.275
+--------------------------------------------------------------------------- 
+
+Ticket ID : 18
+Client ID : -1
+Date : 2021-04-06
+Description : Film : Tenet - Cinema : UGC New York - Tickets : Childs: 0 ; Adult: 1 ; Senior: 1
+Total Price : 17.935
+--------------------------------------------------------------------------- 
+
+Ticket ID : 19
+Client ID : -1
+Date : 2021-04-07
+Description : Film : Tenet - Cinema : UGC New York - Tickets : Childs: 0 ; Adult: 1 ; Senior: 0
+Total Price : 10.55
+--------------------------------------------------------------------------- 
+
+Ticket ID : 20
+Client ID : 1
+Date : 2021-04-07
+Description : Film : Tenet - Cinema : UGC New York - Tickets : Childs: 1 ; Adult: 0 ; Senior: 1
+Total Price : 9.1152
+--------------------------------------------------------------------------- 
+
+Ticket ID : 21
+Client ID : 14
+Date : 2021-04-07
+Description : Film : The Godfather - Cinema : PeckhamPlex - Tickets : Childs: 2 ; Adult: 1 ; Senior: 0
+Total Price : 18.51525
+--------------------------------------------------------------------------- 
+
+Ticket ID : 22
+Client ID : 14
+Date : 2021-04-07
+Description : Premium Upgrade
+Total Price : 19.99
+--------------------------------------------------------------------------- 
+
+Ticket ID : 23
+Client ID : 14
+Date : 2021-04-09
+Description : Film : Wonder Woman 1984 - Cinema : The Castle Cinema - Tickets : Childs: 2 ; Adult: 2 ; Senior: 1
+Total Price : 20.964960000000005
+--------------------------------------------------------------------------- 
+
+Ticket ID : 24
+Client ID : -1
+Date : 2021-04-09
+Description : Film : Aloha Scooby-Doo! - Cinema : Genesis Cinema Whitechapel - Tickets : Childs: 2 ; Adult: 2 ; Senior: 2
+Total Price : 31.228
+--------------------------------------------------------------------------- 
+
+Ticket ID : 25
+Client ID : 1
+Date : 2021-04-09
+Description : Premium Upgrade
+Total Price : 19.99
+--------------------------------------------------------------------------- 
+
